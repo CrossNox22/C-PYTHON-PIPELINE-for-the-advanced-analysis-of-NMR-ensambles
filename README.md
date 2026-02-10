@@ -26,7 +26,8 @@ The pipeline implements a multi-parametric approach to analyze protein dynamics 
 Installation and Build Instructions
 
 Prerequisites:
-- Eigen Library: Install via your package manager:
+- Eigen Library:
+  Install via your package manager:
   Ubuntu/Debian: sudo apt-get install libeigen3-dev
   macOS: brew install eigen
   Windows (vcpkg): vcpkg install eigen3
